@@ -1,0 +1,812 @@
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar .navbar-nav .nav-item {
+        margin: 0 auto;
+    }
+    .navbar .navbar-nav .nav-item:first-child{
+        margin: 0 auto;
+    }
+    .d-flex{
+        display: flex;
+        justify-content: center;
+    }
+    .navbar form .btn {
+        padding: 9px 18px !important;
+        font-size: 13px;
+    }
+    .navbar .navbar-brand {
+        padding: 10px 0 !important;
+    }
+    #banner_part {
+        padding-top: 50px !important;
+    }
+    #banner_part .banner_text h1 {
+        font-size: 21px;
+        width: auto;
+        text-align: center;
+        line-height: normal;
+    }
+    #banner_part .banner_text p {
+        width: auto;
+        font-size: 16px;
+        line-height: normal;
+        margin: 10px 0 15px;
+        text-align: center;
+    }
+    #banner_part .banner_text a {
+        font-size: 12px;
+        line-height: normal;
+        border-radius: 12px;
+        margin: 0 0 15px 15px;
+    }
+    
+    #banner_part .banner_bottom {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+    }
+    #banner_part .banner_bottom .location{
+        margin-bottom: 10px;
+    }
+    #banner_part .banner_bottom .search_icon {
+        width: 100%;
+        height: 50px;
+        font-size: 22px;
+        text-align: start;
+        line-height: 50px;
+        margin: 0 auto ;
+    }
+    #banner_part .banner_bottom .search_icon i{
+        margin-left: 10px;
+    
+    }#banner_part .banner_img{
+        display: none;
+    }
+    #banner_part .banner_text {
+        padding-bottom: 0 !important;
+    }
+    /* common css */
+    .title h2 {
+        width: auto;
+        line-height: normal;
+        font-size: x-large;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .title p{
+        width: auto;
+        line-height: normal;
+        font-size: small;
+        margin: 0 auto;
+        text-align: center;
+    }
+    /* common css */
+    #benefit_part {
+        margin: 15px 0;
+    }
+    #benefit_part .title p{
+        width: auto;
+    }
+    #benefit_part .title {
+        margin-bottom: 15px;
+    }
+    #benefit_part .benefit_card {
+        padding: 30px !important;
+        border-radius: 14px;
+        margin: 10px;
+    }
+    #benefit_part .benefit_card h3 {
+        font-size: 20px;
+        line-height: 10px;
+        margin: 15px 0 15px;
+    }
+    #slider_part {
+        margin: 0;
+    }
+    #slider_part .title p {
+        margin: 0 auto;
+        width: auto;
+    }
+    #counter_part {
+        padding: 0 !important;
+    }
+    #counter_part .left .title h2 {
+        width: auto;
+    }
+    #counter_part .left .title p {
+        width: auto;
+        text-align: center;
+    }
+    #counter_part .left .main p {
+        font-size: 14px;
+        width: auto;
+        margin-left: 8px;
+    }
+    #counter_part .left a {
+        margin: 15px 0 0 15px;
+    }
+    .my_button {
+        font-size: 12px;
+        padding: 8px 20px !important;
+    }
+    .count_bg_gap {
+        row-gap: 0;
+    }
+    .count_bg{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 10px 10px 0 10px;
+        padding: 45px !important;
+    }
+    #counter_part .count_bg{
+        background: #007F5F;
+    }
+    #counter_part .count_bg .icon i {
+        background: #fff;
+    }
+    #counter_part .count_bg p {
+        color: #fff;
+    }
+    #counter_part .count_bg h3 {
+        color: #fff;
+    }
+    #destination_part .title {
+        margin: 10px 0 10px;
+    }
+    #destination_part {
+        padding: 0 !important;
+    }
+    #destination_part .title p {
+        margin: 0 auto;
+        width: auto;
+    }
+    #destination_part .main .destination_img01 {
+        transform: scale(.5);
+        margin-left: -80px;
+    }
+    #destination_part .main .destination_img02 {
+        transform: scale(.5);
+        position: absolute;
+        top: 78px;
+        left: 0;
+    }
+    #destination_part .main .dot {
+        transform: scale(.5);
+        position: absolute;
+        top: 98px;
+        left: 145px;
+    }
+    #destination_part .main form input {
+        width: 100%;
+    }
+    #destination_part .main ul {
+        width: auto;
+    } 
+    #destination_part .main ul li{
+        padding: 15px !important;
+    }
+    #event_part .left {
+        transform: scale(.5);
+        margin-left: -83px;
+    }
+    .title h2 {
+        width: auto;
+        line-height: normal;
+        font-size: 18px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #event_part .main {
+        width: auto;
+    }
+    #guarantee_part{
+        margin: 50px 0 100px;
+    }
+    #guarantee_part .title h2{
+        width: auto;
+    }
+    #guarantee_part .title p{
+        width: auto;
+    }
+
+    #event_part .right{
+        margin: 20px 0 0 0;
+    }
+    #guarantee_part .accordion-body {
+        padding: 20px 100px 20px 20px !important;
+    }
+    #guarantee_part .accordion {
+        width: auto;
+    }
+    #guarantee_part .accordion-item h2 {
+        padding: 10px 26px 10px 0 !important;
+    }
+    /* #guarantee_part .accordion-body {
+        padding:0 !important;
+    } */
+    #guarantee_part .right .images {
+        transform: scale(.5);
+        margin: -70px -115px;
+    }
+    #guarantee_part .right .text{
+        transform: scale(.5);
+    }
+    #guarantee_part .right .p03{
+        padding: 12px 0 12px 20px !important;
+    }
+    #explore_part .title p {
+        width: auto;
+        font-size: 12px;
+    }
+    #explore_part .explore_btn {
+        width: auto;
+    }
+    #explore_part .explore_btn .my_button {
+        margin-right: 0;
+        font-size: 9px;
+        padding: 5px 12px !important;
+    }
+    #testimonial_part {
+        padding: 20px 0 30px!important;
+    }
+    #subscribe_part .title h2 {
+        width: auto;
+    }
+    #subscribe_part .title p{
+        width: auto;
+    }
+    #subscribe_part {
+        padding: 40px 0 !important;
+    }
+    #subscribe_part .form form input {
+        width: 85%;
+        padding: 16px 100px 16px 10px !important;
+    }
+    #subscribe_part .form form button {
+        padding: 10px 9px !important;
+        right: 10%;
+        font-size: 12px;
+    }
+    #explore_part .explore_slider .slide_item p {
+        font-size: 12px;
+        margin: 14px 0 14px;
+    }
+    .testimonial_slider .tes_slide{
+        text-align: center;
+    }
+    #testimonial_part .tes_slide p {
+        font-size: 13px;
+    }
+
+    #about_part .icon {
+        font-size: 30px;
+        margin: 6px 0 6px;
+    }
+    #about_part .main .item h2 {
+        font-size: 18px;
+    }
+    #about_part .main .item ul li a {
+        font-size: 11px;
+        line-height: 31px;
+    }
+    #about_part {
+        padding: 25px 0 30px !important;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    .navbar .navbar-nav .nav-item {
+        margin: 0 auto;
+    }
+    .navbar .navbar-nav .nav-item:first-child{
+        margin: 0 auto;
+    }
+    .d-flex{
+        display: flex;
+        justify-content: center;
+    }
+    .navbar form .btn {
+        padding: 9px 18px !important;
+        font-size: 13px;
+    }
+    .navbar .navbar-brand {
+        padding: 10px 0 !important;
+    }
+    #banner_part {
+        padding-top: 50px !important;
+    }
+    #banner_part .banner_text h1 {
+        font-size: 35px;
+        width: auto;
+        line-height: 60px;
+        text-align: center;
+    }
+    #banner_part .banner_text p {
+        width: auto;
+        font-size: 20px;
+        line-height: 40px;
+        margin: 10px 0 20px;
+        text-align: center;
+    }
+    #banner_part .banner_text a {
+        margin: 0 auto 20px;
+    }
+    #banner_part .banner_bottom {
+        padding: 5px !important;
+        width: 100%;
+    }
+    #banner_part .banner_bottom .search_icon {
+        width: 63px;
+        height: 63px;
+        border-radius: 10px;
+        background: #007F5F;
+        font-size: 18px;
+        text-align: center;
+        line-height: 63px;
+        color: #fff;
+        margin: 0;
+    }
+    #banner_part .banner_bottom .location{
+        margin-right: 10px;
+    }
+    #banner_part .banner_img{
+        display: none;
+    }
+    #banner_part .banner_text {
+        padding-bottom: 0 !important;
+    }
+    /* common css */
+    .title h2 {
+        width: auto;
+        /* line-height: normal;
+        font-size: x-large;
+        margin-bottom: 20px; */
+        text-align: center;
+    }
+    .title p{
+        width: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+    /* common css */
+    #benefit_part {
+        margin: 60px 0;
+    }
+    #benefit_part .title p{
+        width: 460px;
+    }
+    #benefit_part .benefit_card {
+        padding: 30px !important;
+        margin: 10px;
+    }
+    #benefit_part .benefit_card p {
+        font-size: 15px;
+        width: auto;
+    }
+    #benefit_part .benefit_card h3 {
+        font-size: 20px;
+        line-height: 10px;
+        margin: 15px 0 15px;
+    }
+    #slider_part {
+        margin: 0;
+    }
+    #slider_part .title p {
+        margin: 0 auto;
+        width: 460px;
+    }
+    #counter_part {
+        padding: 0 !important;
+    }
+    #counter_part .left .title h2 {
+        width: auto;
+    }
+    #counter_part .left .title p {
+        width: auto;
+        text-align: center;
+    }
+    #counter_part .left a {
+        margin: 15px 0 0 15px;
+    }
+    .count_bg_gap {
+        row-gap: 0;
+    }
+    #counter_part .count_bg {
+        padding: 30px 32px !important;
+        border-radius: 17px;
+        margin: 10px;
+    }
+    #counter_part .count_bg{
+        background: #007F5F
+    }
+    #counter_part .count_bg .icon i {
+        background: #fff;
+    }
+    #counter_part .count_bg p {
+        color: #fff;
+    }
+    #counter_part .count_bg h3 {
+        color: #fff;
+    }
+    #destination_part .title {
+        margin: 10px 0 10px;
+    }
+    #destination_part {
+        padding: 0 !important;
+    }
+    #destination_part .title p {
+        margin: 0 auto;
+        width: auto;
+    }
+    #destination_part .main img{
+        transform: scale(.8);
+    }
+    #event_part .left {
+        transform: scale(.8);
+    }
+
+    #destination_part .main form input {
+        width: 100%;
+    }
+    #destination_part .main ul {
+        width: auto;
+    } 
+    #destination_part .main ul li{
+        padding: 15px !important;
+    }
+    #event_part .main {
+        width: auto;
+    }
+    #guarantee_part .title h2{
+        width: auto;
+    }
+    #guarantee_part .title p{
+        width: auto;
+    }
+    #event_part .right {
+        margin: 177px 0 0 0;
+    }
+    #guarantee_part .accordion-body {
+        padding: 20px 100px 20px 20px !important;
+    }
+    #guarantee_part .accordion {
+        width: auto;
+    }
+    #guarantee_part .accordion-item h2 {
+        padding: 10px 26px 10px 0 !important;
+    }
+    /* #guarantee_part .accordion-body {
+        padding:0 !important;
+    } */
+    #guarantee_part .right .images {
+        transform: scale(.8);
+    }
+
+    #guarantee_part .right .p03{
+        padding: 12px 0 12px 20px !important;
+    }
+    #explore_part .title p {
+        width: auto;
+        font-size: 12px;
+    }
+    #explore_part .explore_btn {
+        width: auto;
+    }
+    #explore_part .explore_btn .my_button {
+        margin-right: 0;
+        font-size: 9px;
+        padding: 5px 12px !important;
+    }
+    #testimonial_part {
+        padding: 20px 0 30px!important;
+    }
+    #subscribe_part {
+        padding: 40px 0 !important;
+    }
+    #subscribe_part .form form input {
+        width: 85%;
+        padding: 16px 100px 16px 10px !important;
+    }
+    #subscribe_part .form form button {
+        padding: 10px 9px !important;
+        right: 10%;
+        font-size: 12px;
+    }
+    #explore_part .explore_slider .slide_item p {
+        font-size: 12px;
+        margin: 14px 0 14px;
+    }
+    .testimonial_slider .tes_slide{
+        text-align: center;
+    }
+    #testimonial_part .tes_slide p {
+        font-size: 13px;
+    }
+    #subscribe_part .title h2 {
+        width: auto;
+    }
+
+    #about_part .icon {
+        font-size: 30px;
+        margin: 6px 0 6px;
+    }
+    #about_part {
+        padding: 25px 0 30px !important;
+    }
+
+} 
+@media (min-width: 768px) and (max-width: 991.98px){
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+    #banner_part {
+        padding-top: 50px !important;
+    }
+    .navbar .navbar-nav .nav-item {
+        margin: 0 auto;
+    }
+    .navbar .navbar-nav .nav-item .nav-link {
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .navbar .navbar-nav .nav-item:first-child{
+        margin: 0 auto;
+    }
+    .d-flex{
+        display: flex;
+        justify-content: center;
+    }
+    .navbar .navbar-brand {
+        padding: 10px 0 !important;
+    }
+    /* #banner_part {
+        padding-top: 50px !important;
+    } */
+    /* #banner_part .banner_text h1 {
+        font-size: 35px;
+        width: auto;
+        line-height: 60px;
+        text-align: center;
+    }
+    #banner_part .banner_text p {
+        width: auto;
+        font-size: 20px;
+        line-height: 40px;
+        margin: 10px 0 20px;
+        text-align: center;
+    } */
+    /* #banner_part .banner_text a {
+        margin: 0 auto 20px;
+    } */
+    /* #banner_part .banner_bottom {
+        padding: 5px !important;
+        background: rgb(144, 141, 141);
+        width: 100%;
+    }
+    #banner_part .banner_bottom .search_icon {
+        width: 63px;
+        height: 63px;
+        border-radius: 10px;
+        background: #007F5F;
+        font-size: 18px;
+        text-align: center;
+        line-height: 63px;
+        color: #fff;
+        margin: 0;
+    } */
+    #banner_part .banner_bottom .location{
+        margin-right: 10px;
+    }
+    #banner_part .banner_img{
+        display: none;
+    }
+    #banner_part .banner_text {
+        padding-bottom: 0 !important;
+    }
+    /* common css */
+    .title h2 {
+        width: auto;
+        /* line-height: normal;
+        font-size: x-large;
+        margin-bottom: 20px; */
+        text-align: center;
+    }
+    .title p{
+        width: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+    /* common css */
+    /* #benefit_part {
+        margin: 60px 0;
+    } */
+    /* #benefit_part .title p{
+        width: 460px;
+    } */
+    /* #benefit_part .benefit_card {
+        padding: 30px !important;
+        margin: 10px;
+        background: rgb(106, 61, 61);
+    }
+    #benefit_part .benefit_card p {
+        font-size: 15px;
+        width: auto;
+    }
+    #benefit_part .benefit_card h3 {
+        font-size: 20px;
+        line-height: 10px;
+        margin: 15px 0 15px;
+    } */
+    /* #slider_part {
+        margin: 0;
+    } */
+    /* #slider_part .title p {
+        margin: 0 auto;
+        width: 460px;
+    } */
+    /* #counter_part {
+        padding: 0 !important;
+    } */
+    #counter_part .left .title h2 {
+        width: auto;
+    }
+    #counter_part .left .title p {
+        width: auto;
+        text-align: center;
+    }
+    /* #counter_part .left a {
+        margin: 15px 0 0 15px;
+    } */
+    .count_bg_gap {
+        row-gap: 0;
+    }
+    #counter_part .count_bg {
+        margin: 15px;
+    }
+    #counter_part .count_bg{
+        background: #007F5F
+    }
+    #counter_part .count_bg .icon i {
+        background: #fff;
+    }
+    #counter_part .count_bg p {
+        color: #fff;
+    }
+    #counter_part .count_bg h3 {
+        color: #fff;
+    }
+    /* #destination_part .title {
+        margin: 10px 0 10px;
+    } */
+    #destination_part {
+        padding: 0 !important;
+    }
+    #destination_part .title{
+        text-align: center;
+    } 
+    #destination_part .title a{
+        margin-bottom: 20px;
+    }
+    #destination_part .title p {
+        margin: 0 auto;
+        width: 80%;
+    }
+    /* #destination_part .main img{
+        transform: scale(.8);
+    }
+    #event_part .left {
+        transform: scale(.8);
+    } */
+
+    /* #destination_part .main form input {
+        width: 100%;
+    }
+    #destination_part .main ul {
+        width: auto;
+    } 
+    #destination_part .main ul li{
+        padding: 15px !important;
+    } */
+    #event_part .main {
+        width: auto;
+    }
+    /* #guarantee_part .title h2{
+        width: auto;
+    }
+    #guarantee_part .title p{
+        width: auto;
+    } */
+    #event_part .right {
+        margin: 270px 0 0 0;
+    }
+    #guarantee_part .title h2 {
+        width: auto;
+    }
+    #guarantee_part .accordion-body {
+        padding: 20px 50px 20px 20px !important;
+    }
+    #guarantee_part .accordion {
+        width: auto;
+    }
+    #guarantee_part .accordion-item h2 {
+        padding: 10px 26px 10px 0 !important;
+    }
+    /* #guarantee_part .accordion-body {
+        padding:0 !important;
+    } */
+    #guarantee_part .right .images {
+        transform: scale(.8);
+    }
+
+    #guarantee_part .right .p03{
+        padding: 12px 0 12px 20px !important;
+    }
+    #explore_part .title p {
+        width: auto;
+    }
+    #explore_part .explore_btn {
+        width: auto;
+    }
+    /* #explore_part .explore_btn .my_button {
+        margin-right: 0;
+        font-size: 9px;
+        padding: 5px 12px !important;
+    } */
+    /* #explore_part .explore_slider .slide_item p {
+        font-size: 12px;
+        margin: 14px 0 14px;
+    } */
+    /* #testimonial_part {
+        padding: 20px 0 30px!important;
+    } */
+    /* #subscribe_part {
+        padding: 40px 0 !important;
+    }
+    #subscribe_part .form form input {
+        width: 85%;
+        padding: 16px 100px 16px 10px !important;
+    } */
+    #subscribe_part .form form button {
+        right: 1%;
+    }
+    /* .testimonial_slider .tes_slide{
+        text-align: center;
+    }
+    #testimonial_part .tes_slide p {
+        font-size: 13px;
+    }
+    #subscribe_part .title h2 {
+        width: auto;
+    } */
+
+    /* #about_part .icon {
+        font-size: 30px;
+        margin: 6px 0 6px;
+    }
+    #about_part {
+        padding: 25px 0 30px !important;
+    } */
+
+} 
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
